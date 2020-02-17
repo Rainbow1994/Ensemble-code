@@ -1,0 +1,16 @@
+# Name                    Spec   ExtNr  Cat Hier Dim OutUnit
+EMIS_CH4_TOTAL            CH4   -1     -1   -1   2   molec/cm2/s
+EMIS_CH4_TAG_AN1          CH4    0      1   -1   2   molec/cm2/s
+EMIS_CH4_TAG_AN2          CH4    0      2   -1   2   molec/cm2/s
+EMIS_CH4_TAG_AN3          CH4    0      3   -1   2   molec/cm2/s
+EMIS_CH4_TAG_AN4          CH4    0      4   -1   2   molec/cm2/s
+EMIS_CH4_TAG_AN5          CH4    0      5   -1   2   molec/cm2/s
+EMIS_CH4_TAG_AN6          CH4    0      6   -1   2   molec/cm2/s
+EMIS_CH4_TAG_AN7          CH4    0      7   -1   2   molec/cm2/s
+EMIS_CH4_TAG_NA1          CH4    0      8   -1   2   molec/cm2/s
+EMIS_CH4_TAG_NA2          CH4    0      9   -1   2   molec/cm2/s
+EMIS_CH4_TAG_NA3          CH4    0     10   -1   2   molec/cm2/s
+EMIS_CH4_TAG_NA4          CH4    0     11   -1   2   molec/cm2/s
+EMIS_CH4_TAG_NA5          CH4    0     12   -1   2   molec/cm2/s
+EMIS_CH4_TAG_NA6          CH4    0     13   -1   2   molec/cm2/s
+EMIS_CH4_TAG_NA7          CH4    0     14   -1   2   molec/cm2/s
